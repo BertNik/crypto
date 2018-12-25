@@ -18,3 +18,8 @@ var d = (v)=>{
     )
     return message.join("");
 }
+
+//usage
+var cipherText = e('test')
+d(cipherText)
+//"test"
